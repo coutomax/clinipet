@@ -4,28 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a6d5470-e745-4581-9e1d-d2b3faccb36b" name="Changes" comment="Criação do projeto">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy-datasource.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/DetalhesVenda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/Estoque.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/Fornecedor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/Funcionario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/Gerente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/Pet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/Produto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/Servico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/Venda.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1a6d5470-e745-4581-9e1d-d2b3faccb36b" name="Changes" comment="Hibernate - JPA entity generation" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -103,7 +82,7 @@
       <option name="presentableId" value="Default" />
       <updated>1718124511918</updated>
       <workItem from="1718821338941" duration="37000" />
-      <workItem from="1718821380315" duration="1101000" />
+      <workItem from="1718821380315" duration="1433000" />
     </task>
     <task id="LOCAL-00001" summary="Criação do projeto">
       <created>1718808336470</created>
@@ -112,7 +91,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718808336470</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Hibernate - JPA entity generation">
+      <option name="closed" value="true" />
+      <created>1718822736425</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1718822736425</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,6 +118,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Criação do projeto" />
-    <option name="LAST_COMMIT_MESSAGE" value="Criação do projeto" />
+    <MESSAGE value="Hibernate - JPA entity generation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hibernate - JPA entity generation" />
   </component>
 </project>
